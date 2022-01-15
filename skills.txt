@@ -1,0 +1,4 @@
+skill_1 - API
+skill_2 - Devtools
+skill_3 - SQL
+skill_4 - Linux
